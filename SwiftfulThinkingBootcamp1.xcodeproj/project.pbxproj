@@ -72,6 +72,7 @@
 		46CAE1BF2846769F00C0853C /* Bootcamp54.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE1BE2846769F00C0853C /* Bootcamp54.swift */; };
 		46CAE1C1284678DE00C0853C /* Bootcamp55.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE1C0284678DE00C0853C /* Bootcamp55.swift */; };
 		46CAE1C328467C5E00C0853C /* Bootcamp56.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE1C228467C5E00C0853C /* Bootcamp56.swift */; };
+		46CAE1C52846861B00C0853C /* Bootcamp57.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE1C42846861B00C0853C /* Bootcamp57.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -141,6 +142,7 @@
 		46CAE1BE2846769F00C0853C /* Bootcamp54.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp54.swift; sourceTree = "<group>"; };
 		46CAE1C0284678DE00C0853C /* Bootcamp55.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp55.swift; sourceTree = "<group>"; };
 		46CAE1C228467C5E00C0853C /* Bootcamp56.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp56.swift; sourceTree = "<group>"; };
+		46CAE1C42846861B00C0853C /* Bootcamp57.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp57.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -235,6 +237,7 @@
 				46CAE1BE2846769F00C0853C /* Bootcamp54.swift */,
 				46CAE1C0284678DE00C0853C /* Bootcamp55.swift */,
 				46CAE1C228467C5E00C0853C /* Bootcamp56.swift */,
+				46CAE1C42846861B00C0853C /* Bootcamp57.swift */,
 				46CAE1412846466400C0853C /* Preview Content */,
 			);
 			path = SwiftfulThinkingBootcamp1;
@@ -344,6 +347,7 @@
 				46CAE1A2284647F100C0853C /* Bootcamp12.swift in Sources */,
 				46CAE193284647F100C0853C /* Bootcamp36.swift in Sources */,
 				46CAE186284647F000C0853C /* Bootcamp01.swift in Sources */,
+				46CAE1C52846861B00C0853C /* Bootcamp57.swift in Sources */,
 				46CAE187284647F000C0853C /* Bootcamp38.swift in Sources */,
 				46CAE195284647F100C0853C /* Bootcamp41.swift in Sources */,
 				46CAE1B3284647F100C0853C /* Bootcamp17.swift in Sources */,
