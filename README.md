@@ -1,6 +1,6 @@
 # SwiftfulThinking Bootcamp 1
 
-[SwiftUI Bootcamp (Beginer level)](https://www.youtube.com/playlist?list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO)  
+[SwiftUI Bootcamp (Beginner level)](https://www.youtube.com/playlist?list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO)  
 
 ![Scheme](/readmeImages/SimulatorScreenShot-iPhone13-2022-05-31at08.23.38.png)
 ![Scheme](/readmeImages/SimulatorScreenShot-iPhone13-2022-05-31at08.24.40.png)
