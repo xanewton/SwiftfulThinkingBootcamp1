@@ -13,6 +13,61 @@
 		46CAE1432846466400C0853C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46CAE1422846466400C0853C /* Preview Assets.xcassets */; };
 		46CAE14B2846476B00C0853C /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 46CAE1492846476B00C0853C /* LICENSE.txt */; };
 		46CAE14C2846476B00C0853C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 46CAE14A2846476B00C0853C /* README.md */; };
+		46CAE185284647F000C0853C /* Bootcamp27.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE14D284647EE00C0853C /* Bootcamp27.swift */; };
+		46CAE186284647F000C0853C /* Bootcamp01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE14E284647EE00C0853C /* Bootcamp01.swift */; };
+		46CAE187284647F000C0853C /* Bootcamp38.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE14F284647EE00C0853C /* Bootcamp38.swift */; };
+		46CAE188284647F000C0853C /* Bootcamp03.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE150284647EE00C0853C /* Bootcamp03.swift */; };
+		46CAE189284647F100C0853C /* Bootcamp23.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE151284647EE00C0853C /* Bootcamp23.swift */; };
+		46CAE18A284647F100C0853C /* Bootcamp31.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE152284647EE00C0853C /* Bootcamp31.swift */; };
+		46CAE18B284647F100C0853C /* Bootcamp42.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE153284647EE00C0853C /* Bootcamp42.swift */; };
+		46CAE18C284647F100C0853C /* Bootcamp28.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE154284647EE00C0853C /* Bootcamp28.swift */; };
+		46CAE18D284647F100C0853C /* Bootcamp37.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE155284647EE00C0853C /* Bootcamp37.swift */; };
+		46CAE18E284647F100C0853C /* Bootcamp52.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE156284647EE00C0853C /* Bootcamp52.swift */; };
+		46CAE18F284647F100C0853C /* Bootcamp32.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE157284647EE00C0853C /* Bootcamp32.swift */; };
+		46CAE190284647F100C0853C /* Bootcamp05.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE158284647EE00C0853C /* Bootcamp05.swift */; };
+		46CAE191284647F100C0853C /* Bootcamp29.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE159284647EE00C0853C /* Bootcamp29.swift */; };
+		46CAE192284647F100C0853C /* Bootcamp07.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE15A284647EF00C0853C /* Bootcamp07.swift */; };
+		46CAE193284647F100C0853C /* Bootcamp36.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE15B284647EF00C0853C /* Bootcamp36.swift */; };
+		46CAE194284647F100C0853C /* Bootcamp46.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE15C284647EF00C0853C /* Bootcamp46.swift */; };
+		46CAE195284647F100C0853C /* Bootcamp41.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE15D284647EF00C0853C /* Bootcamp41.swift */; };
+		46CAE196284647F100C0853C /* Bootcamp49.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE15E284647EF00C0853C /* Bootcamp49.swift */; };
+		46CAE197284647F100C0853C /* Bootcamp47.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE15F284647EF00C0853C /* Bootcamp47.swift */; };
+		46CAE198284647F100C0853C /* Bootcamp43.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE160284647EF00C0853C /* Bootcamp43.swift */; };
+		46CAE199284647F100C0853C /* Bootcamp33.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE161284647EF00C0853C /* Bootcamp33.swift */; };
+		46CAE19A284647F100C0853C /* Bootcamp08.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE162284647EF00C0853C /* Bootcamp08.swift */; };
+		46CAE19B284647F100C0853C /* Bootcamp20.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE163284647EF00C0853C /* Bootcamp20.swift */; };
+		46CAE19C284647F100C0853C /* Bootcamp34.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE164284647EF00C0853C /* Bootcamp34.swift */; };
+		46CAE19D284647F100C0853C /* Bootcamp14.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE165284647EF00C0853C /* Bootcamp14.swift */; };
+		46CAE19E284647F100C0853C /* Bootcamp13.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE166284647EF00C0853C /* Bootcamp13.swift */; };
+		46CAE19F284647F100C0853C /* Bootcamp39.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE167284647EF00C0853C /* Bootcamp39.swift */; };
+		46CAE1A0284647F100C0853C /* Bootcamp15.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE168284647EF00C0853C /* Bootcamp15.swift */; };
+		46CAE1A1284647F100C0853C /* Bootcamp25.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE169284647EF00C0853C /* Bootcamp25.swift */; };
+		46CAE1A2284647F100C0853C /* Bootcamp12.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE16A284647EF00C0853C /* Bootcamp12.swift */; };
+		46CAE1A3284647F100C0853C /* Bootcamp24.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE16B284647EF00C0853C /* Bootcamp24.swift */; };
+		46CAE1A4284647F100C0853C /* Bootcamp50.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE16C284647EF00C0853C /* Bootcamp50.swift */; };
+		46CAE1A5284647F100C0853C /* Bootcamp06.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE16D284647EF00C0853C /* Bootcamp06.swift */; };
+		46CAE1A6284647F100C0853C /* Bootcamp44.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE16E284647EF00C0853C /* Bootcamp44.swift */; };
+		46CAE1A7284647F100C0853C /* Bootcamp51.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE16F284647F000C0853C /* Bootcamp51.swift */; };
+		46CAE1A8284647F100C0853C /* Bootcamp11.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE170284647F000C0853C /* Bootcamp11.swift */; };
+		46CAE1A9284647F100C0853C /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE172284647F000C0853C /* ProfileView.swift */; };
+		46CAE1AA284647F100C0853C /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE173284647F000C0853C /* IntroView.swift */; };
+		46CAE1AB284647F100C0853C /* OnBoardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE174284647F000C0853C /* OnBoardingView.swift */; };
+		46CAE1AC284647F100C0853C /* Bootcamp22.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE175284647F000C0853C /* Bootcamp22.swift */; };
+		46CAE1AD284647F100C0853C /* Bootcamp30.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE176284647F000C0853C /* Bootcamp30.swift */; };
+		46CAE1AE284647F100C0853C /* Bootcamp04.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE177284647F000C0853C /* Bootcamp04.swift */; };
+		46CAE1AF284647F100C0853C /* Bootcamp48.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE178284647F000C0853C /* Bootcamp48.swift */; };
+		46CAE1B0284647F100C0853C /* Bootcamp19.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE179284647F000C0853C /* Bootcamp19.swift */; };
+		46CAE1B1284647F100C0853C /* Bootcamp09.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE17A284647F000C0853C /* Bootcamp09.swift */; };
+		46CAE1B2284647F100C0853C /* Bootcamp40.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE17B284647F000C0853C /* Bootcamp40.swift */; };
+		46CAE1B3284647F100C0853C /* Bootcamp17.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE17C284647F000C0853C /* Bootcamp17.swift */; };
+		46CAE1B4284647F100C0853C /* Bootcamp02.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE17D284647F000C0853C /* Bootcamp02.swift */; };
+		46CAE1B5284647F100C0853C /* Bootcamp18.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE17E284647F000C0853C /* Bootcamp18.swift */; };
+		46CAE1B6284647F100C0853C /* Bootcamp21.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE17F284647F000C0853C /* Bootcamp21.swift */; };
+		46CAE1B7284647F100C0853C /* Bootcamp16.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE180284647F000C0853C /* Bootcamp16.swift */; };
+		46CAE1B8284647F100C0853C /* Bootcamp35.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE181284647F000C0853C /* Bootcamp35.swift */; };
+		46CAE1B9284647F100C0853C /* Bootcamp26.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE182284647F000C0853C /* Bootcamp26.swift */; };
+		46CAE1BA284647F100C0853C /* Bootcamp45.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE183284647F000C0853C /* Bootcamp45.swift */; };
+		46CAE1BB284647F100C0853C /* Bootcamp10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE184284647F000C0853C /* Bootcamp10.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +78,61 @@
 		46CAE1422846466400C0853C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		46CAE1492846476B00C0853C /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		46CAE14A2846476B00C0853C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		46CAE14D284647EE00C0853C /* Bootcamp27.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp27.swift; sourceTree = "<group>"; };
+		46CAE14E284647EE00C0853C /* Bootcamp01.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp01.swift; sourceTree = "<group>"; };
+		46CAE14F284647EE00C0853C /* Bootcamp38.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp38.swift; sourceTree = "<group>"; };
+		46CAE150284647EE00C0853C /* Bootcamp03.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp03.swift; sourceTree = "<group>"; };
+		46CAE151284647EE00C0853C /* Bootcamp23.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp23.swift; sourceTree = "<group>"; };
+		46CAE152284647EE00C0853C /* Bootcamp31.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp31.swift; sourceTree = "<group>"; };
+		46CAE153284647EE00C0853C /* Bootcamp42.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp42.swift; sourceTree = "<group>"; };
+		46CAE154284647EE00C0853C /* Bootcamp28.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp28.swift; sourceTree = "<group>"; };
+		46CAE155284647EE00C0853C /* Bootcamp37.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp37.swift; sourceTree = "<group>"; };
+		46CAE156284647EE00C0853C /* Bootcamp52.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp52.swift; sourceTree = "<group>"; };
+		46CAE157284647EE00C0853C /* Bootcamp32.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp32.swift; sourceTree = "<group>"; };
+		46CAE158284647EE00C0853C /* Bootcamp05.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp05.swift; sourceTree = "<group>"; };
+		46CAE159284647EE00C0853C /* Bootcamp29.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp29.swift; sourceTree = "<group>"; };
+		46CAE15A284647EF00C0853C /* Bootcamp07.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp07.swift; sourceTree = "<group>"; };
+		46CAE15B284647EF00C0853C /* Bootcamp36.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp36.swift; sourceTree = "<group>"; };
+		46CAE15C284647EF00C0853C /* Bootcamp46.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp46.swift; sourceTree = "<group>"; };
+		46CAE15D284647EF00C0853C /* Bootcamp41.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp41.swift; sourceTree = "<group>"; };
+		46CAE15E284647EF00C0853C /* Bootcamp49.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp49.swift; sourceTree = "<group>"; };
+		46CAE15F284647EF00C0853C /* Bootcamp47.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp47.swift; sourceTree = "<group>"; };
+		46CAE160284647EF00C0853C /* Bootcamp43.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp43.swift; sourceTree = "<group>"; };
+		46CAE161284647EF00C0853C /* Bootcamp33.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp33.swift; sourceTree = "<group>"; };
+		46CAE162284647EF00C0853C /* Bootcamp08.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp08.swift; sourceTree = "<group>"; };
+		46CAE163284647EF00C0853C /* Bootcamp20.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp20.swift; sourceTree = "<group>"; };
+		46CAE164284647EF00C0853C /* Bootcamp34.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp34.swift; sourceTree = "<group>"; };
+		46CAE165284647EF00C0853C /* Bootcamp14.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp14.swift; sourceTree = "<group>"; };
+		46CAE166284647EF00C0853C /* Bootcamp13.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp13.swift; sourceTree = "<group>"; };
+		46CAE167284647EF00C0853C /* Bootcamp39.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp39.swift; sourceTree = "<group>"; };
+		46CAE168284647EF00C0853C /* Bootcamp15.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp15.swift; sourceTree = "<group>"; };
+		46CAE169284647EF00C0853C /* Bootcamp25.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp25.swift; sourceTree = "<group>"; };
+		46CAE16A284647EF00C0853C /* Bootcamp12.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp12.swift; sourceTree = "<group>"; };
+		46CAE16B284647EF00C0853C /* Bootcamp24.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp24.swift; sourceTree = "<group>"; };
+		46CAE16C284647EF00C0853C /* Bootcamp50.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp50.swift; sourceTree = "<group>"; };
+		46CAE16D284647EF00C0853C /* Bootcamp06.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp06.swift; sourceTree = "<group>"; };
+		46CAE16E284647EF00C0853C /* Bootcamp44.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp44.swift; sourceTree = "<group>"; };
+		46CAE16F284647F000C0853C /* Bootcamp51.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp51.swift; sourceTree = "<group>"; };
+		46CAE170284647F000C0853C /* Bootcamp11.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp11.swift; sourceTree = "<group>"; };
+		46CAE172284647F000C0853C /* ProfileView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		46CAE173284647F000C0853C /* IntroView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
+		46CAE174284647F000C0853C /* OnBoardingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnBoardingView.swift; sourceTree = "<group>"; };
+		46CAE175284647F000C0853C /* Bootcamp22.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp22.swift; sourceTree = "<group>"; };
+		46CAE176284647F000C0853C /* Bootcamp30.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp30.swift; sourceTree = "<group>"; };
+		46CAE177284647F000C0853C /* Bootcamp04.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp04.swift; sourceTree = "<group>"; };
+		46CAE178284647F000C0853C /* Bootcamp48.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp48.swift; sourceTree = "<group>"; };
+		46CAE179284647F000C0853C /* Bootcamp19.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp19.swift; sourceTree = "<group>"; };
+		46CAE17A284647F000C0853C /* Bootcamp09.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp09.swift; sourceTree = "<group>"; };
+		46CAE17B284647F000C0853C /* Bootcamp40.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp40.swift; sourceTree = "<group>"; };
+		46CAE17C284647F000C0853C /* Bootcamp17.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp17.swift; sourceTree = "<group>"; };
+		46CAE17D284647F000C0853C /* Bootcamp02.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp02.swift; sourceTree = "<group>"; };
+		46CAE17E284647F000C0853C /* Bootcamp18.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp18.swift; sourceTree = "<group>"; };
+		46CAE17F284647F000C0853C /* Bootcamp21.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp21.swift; sourceTree = "<group>"; };
+		46CAE180284647F000C0853C /* Bootcamp16.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp16.swift; sourceTree = "<group>"; };
+		46CAE181284647F000C0853C /* Bootcamp35.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp35.swift; sourceTree = "<group>"; };
+		46CAE182284647F000C0853C /* Bootcamp26.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp26.swift; sourceTree = "<group>"; };
+		46CAE183284647F000C0853C /* Bootcamp45.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp45.swift; sourceTree = "<group>"; };
+		46CAE184284647F000C0853C /* Bootcamp10.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp10.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +170,59 @@
 				46CAE13B2846466300C0853C /* SwiftfulThinkingBootcamp1App.swift */,
 				46CAE13D2846466300C0853C /* ContentView.swift */,
 				46CAE13F2846466400C0853C /* Assets.xcassets */,
+				46CAE14E284647EE00C0853C /* Bootcamp01.swift */,
+				46CAE17D284647F000C0853C /* Bootcamp02.swift */,
+				46CAE150284647EE00C0853C /* Bootcamp03.swift */,
+				46CAE177284647F000C0853C /* Bootcamp04.swift */,
+				46CAE158284647EE00C0853C /* Bootcamp05.swift */,
+				46CAE16D284647EF00C0853C /* Bootcamp06.swift */,
+				46CAE15A284647EF00C0853C /* Bootcamp07.swift */,
+				46CAE162284647EF00C0853C /* Bootcamp08.swift */,
+				46CAE17A284647F000C0853C /* Bootcamp09.swift */,
+				46CAE184284647F000C0853C /* Bootcamp10.swift */,
+				46CAE170284647F000C0853C /* Bootcamp11.swift */,
+				46CAE16A284647EF00C0853C /* Bootcamp12.swift */,
+				46CAE166284647EF00C0853C /* Bootcamp13.swift */,
+				46CAE165284647EF00C0853C /* Bootcamp14.swift */,
+				46CAE168284647EF00C0853C /* Bootcamp15.swift */,
+				46CAE180284647F000C0853C /* Bootcamp16.swift */,
+				46CAE17C284647F000C0853C /* Bootcamp17.swift */,
+				46CAE17E284647F000C0853C /* Bootcamp18.swift */,
+				46CAE179284647F000C0853C /* Bootcamp19.swift */,
+				46CAE163284647EF00C0853C /* Bootcamp20.swift */,
+				46CAE17F284647F000C0853C /* Bootcamp21.swift */,
+				46CAE175284647F000C0853C /* Bootcamp22.swift */,
+				46CAE151284647EE00C0853C /* Bootcamp23.swift */,
+				46CAE16B284647EF00C0853C /* Bootcamp24.swift */,
+				46CAE169284647EF00C0853C /* Bootcamp25.swift */,
+				46CAE182284647F000C0853C /* Bootcamp26.swift */,
+				46CAE14D284647EE00C0853C /* Bootcamp27.swift */,
+				46CAE154284647EE00C0853C /* Bootcamp28.swift */,
+				46CAE159284647EE00C0853C /* Bootcamp29.swift */,
+				46CAE176284647F000C0853C /* Bootcamp30.swift */,
+				46CAE152284647EE00C0853C /* Bootcamp31.swift */,
+				46CAE157284647EE00C0853C /* Bootcamp32.swift */,
+				46CAE161284647EF00C0853C /* Bootcamp33.swift */,
+				46CAE164284647EF00C0853C /* Bootcamp34.swift */,
+				46CAE181284647F000C0853C /* Bootcamp35.swift */,
+				46CAE15B284647EF00C0853C /* Bootcamp36.swift */,
+				46CAE155284647EE00C0853C /* Bootcamp37.swift */,
+				46CAE14F284647EE00C0853C /* Bootcamp38.swift */,
+				46CAE167284647EF00C0853C /* Bootcamp39.swift */,
+				46CAE17B284647F000C0853C /* Bootcamp40.swift */,
+				46CAE15D284647EF00C0853C /* Bootcamp41.swift */,
+				46CAE153284647EE00C0853C /* Bootcamp42.swift */,
+				46CAE160284647EF00C0853C /* Bootcamp43.swift */,
+				46CAE16E284647EF00C0853C /* Bootcamp44.swift */,
+				46CAE183284647F000C0853C /* Bootcamp45.swift */,
+				46CAE15C284647EF00C0853C /* Bootcamp46.swift */,
+				46CAE15F284647EF00C0853C /* Bootcamp47.swift */,
+				46CAE178284647F000C0853C /* Bootcamp48.swift */,
+				46CAE15E284647EF00C0853C /* Bootcamp49.swift */,
+				46CAE16C284647EF00C0853C /* Bootcamp50.swift */,
+				46CAE16F284647F000C0853C /* Bootcamp51.swift */,
+				46CAE156284647EE00C0853C /* Bootcamp52.swift */,
+				46CAE171284647F000C0853C /* OnBoardingViews */,
 				46CAE1412846466400C0853C /* Preview Content */,
 			);
 			path = SwiftfulThinkingBootcamp1;
@@ -71,6 +234,16 @@
 				46CAE1422846466400C0853C /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		46CAE171284647F000C0853C /* OnBoardingViews */ = {
+			isa = PBXGroup;
+			children = (
+				46CAE172284647F000C0853C /* ProfileView.swift */,
+				46CAE173284647F000C0853C /* IntroView.swift */,
+				46CAE174284647F000C0853C /* OnBoardingView.swift */,
+			);
+			path = OnBoardingViews;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -145,8 +318,63 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				46CAE1AE284647F100C0853C /* Bootcamp04.swift in Sources */,
+				46CAE1A8284647F100C0853C /* Bootcamp11.swift in Sources */,
+				46CAE1A9284647F100C0853C /* ProfileView.swift in Sources */,
+				46CAE1A3284647F100C0853C /* Bootcamp24.swift in Sources */,
+				46CAE1B2284647F100C0853C /* Bootcamp40.swift in Sources */,
+				46CAE185284647F000C0853C /* Bootcamp27.swift in Sources */,
+				46CAE197284647F100C0853C /* Bootcamp47.swift in Sources */,
+				46CAE190284647F100C0853C /* Bootcamp05.swift in Sources */,
+				46CAE1AC284647F100C0853C /* Bootcamp22.swift in Sources */,
+				46CAE1A2284647F100C0853C /* Bootcamp12.swift in Sources */,
+				46CAE193284647F100C0853C /* Bootcamp36.swift in Sources */,
+				46CAE186284647F000C0853C /* Bootcamp01.swift in Sources */,
+				46CAE187284647F000C0853C /* Bootcamp38.swift in Sources */,
+				46CAE195284647F100C0853C /* Bootcamp41.swift in Sources */,
+				46CAE1B3284647F100C0853C /* Bootcamp17.swift in Sources */,
+				46CAE1A4284647F100C0853C /* Bootcamp50.swift in Sources */,
+				46CAE18E284647F100C0853C /* Bootcamp52.swift in Sources */,
+				46CAE19A284647F100C0853C /* Bootcamp08.swift in Sources */,
+				46CAE189284647F100C0853C /* Bootcamp23.swift in Sources */,
+				46CAE1BB284647F100C0853C /* Bootcamp10.swift in Sources */,
+				46CAE1A0284647F100C0853C /* Bootcamp15.swift in Sources */,
+				46CAE1A7284647F100C0853C /* Bootcamp51.swift in Sources */,
+				46CAE1B9284647F100C0853C /* Bootcamp26.swift in Sources */,
+				46CAE1AA284647F100C0853C /* IntroView.swift in Sources */,
+				46CAE19D284647F100C0853C /* Bootcamp14.swift in Sources */,
+				46CAE191284647F100C0853C /* Bootcamp29.swift in Sources */,
+				46CAE1A6284647F100C0853C /* Bootcamp44.swift in Sources */,
+				46CAE1B5284647F100C0853C /* Bootcamp18.swift in Sources */,
+				46CAE1B8284647F100C0853C /* Bootcamp35.swift in Sources */,
+				46CAE1B7284647F100C0853C /* Bootcamp16.swift in Sources */,
+				46CAE19E284647F100C0853C /* Bootcamp13.swift in Sources */,
+				46CAE19B284647F100C0853C /* Bootcamp20.swift in Sources */,
+				46CAE1A1284647F100C0853C /* Bootcamp25.swift in Sources */,
+				46CAE1A5284647F100C0853C /* Bootcamp06.swift in Sources */,
+				46CAE1AD284647F100C0853C /* Bootcamp30.swift in Sources */,
+				46CAE1B6284647F100C0853C /* Bootcamp21.swift in Sources */,
+				46CAE192284647F100C0853C /* Bootcamp07.swift in Sources */,
+				46CAE1B1284647F100C0853C /* Bootcamp09.swift in Sources */,
+				46CAE18D284647F100C0853C /* Bootcamp37.swift in Sources */,
+				46CAE18A284647F100C0853C /* Bootcamp31.swift in Sources */,
+				46CAE1B4284647F100C0853C /* Bootcamp02.swift in Sources */,
 				46CAE13E2846466300C0853C /* ContentView.swift in Sources */,
+				46CAE1AB284647F100C0853C /* OnBoardingView.swift in Sources */,
+				46CAE199284647F100C0853C /* Bootcamp33.swift in Sources */,
+				46CAE196284647F100C0853C /* Bootcamp49.swift in Sources */,
+				46CAE18C284647F100C0853C /* Bootcamp28.swift in Sources */,
+				46CAE19C284647F100C0853C /* Bootcamp34.swift in Sources */,
+				46CAE19F284647F100C0853C /* Bootcamp39.swift in Sources */,
+				46CAE18F284647F100C0853C /* Bootcamp32.swift in Sources */,
+				46CAE198284647F100C0853C /* Bootcamp43.swift in Sources */,
+				46CAE1BA284647F100C0853C /* Bootcamp45.swift in Sources */,
 				46CAE13C2846466300C0853C /* SwiftfulThinkingBootcamp1App.swift in Sources */,
+				46CAE18B284647F100C0853C /* Bootcamp42.swift in Sources */,
+				46CAE194284647F100C0853C /* Bootcamp46.swift in Sources */,
+				46CAE1AF284647F100C0853C /* Bootcamp48.swift in Sources */,
+				46CAE1B0284647F100C0853C /* Bootcamp19.swift in Sources */,
+				46CAE188284647F000C0853C /* Bootcamp03.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
