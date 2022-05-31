@@ -69,6 +69,9 @@
 		46CAE1BA284647F100C0853C /* Bootcamp45.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE183284647F000C0853C /* Bootcamp45.swift */; };
 		46CAE1BB284647F100C0853C /* Bootcamp10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE184284647F000C0853C /* Bootcamp10.swift */; };
 		46CAE1BD28465BEE00C0853C /* Bootcamp53.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE1BC28465BEE00C0853C /* Bootcamp53.swift */; };
+		46CAE1BF2846769F00C0853C /* Bootcamp54.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE1BE2846769F00C0853C /* Bootcamp54.swift */; };
+		46CAE1C1284678DE00C0853C /* Bootcamp55.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE1C0284678DE00C0853C /* Bootcamp55.swift */; };
+		46CAE1C328467C5E00C0853C /* Bootcamp56.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE1C228467C5E00C0853C /* Bootcamp56.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -135,6 +138,9 @@
 		46CAE183284647F000C0853C /* Bootcamp45.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp45.swift; sourceTree = "<group>"; };
 		46CAE184284647F000C0853C /* Bootcamp10.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp10.swift; sourceTree = "<group>"; };
 		46CAE1BC28465BEE00C0853C /* Bootcamp53.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp53.swift; sourceTree = "<group>"; };
+		46CAE1BE2846769F00C0853C /* Bootcamp54.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp54.swift; sourceTree = "<group>"; };
+		46CAE1C0284678DE00C0853C /* Bootcamp55.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp55.swift; sourceTree = "<group>"; };
+		46CAE1C228467C5E00C0853C /* Bootcamp56.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp56.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -226,6 +232,9 @@
 				46CAE156284647EE00C0853C /* Bootcamp52.swift */,
 				46CAE171284647F000C0853C /* OnBoardingViews */,
 				46CAE1BC28465BEE00C0853C /* Bootcamp53.swift */,
+				46CAE1BE2846769F00C0853C /* Bootcamp54.swift */,
+				46CAE1C0284678DE00C0853C /* Bootcamp55.swift */,
+				46CAE1C228467C5E00C0853C /* Bootcamp56.swift */,
 				46CAE1412846466400C0853C /* Preview Content */,
 			);
 			path = SwiftfulThinkingBootcamp1;
@@ -324,6 +333,8 @@
 				46CAE1AE284647F100C0853C /* Bootcamp04.swift in Sources */,
 				46CAE1A8284647F100C0853C /* Bootcamp11.swift in Sources */,
 				46CAE1A9284647F100C0853C /* ProfileView.swift in Sources */,
+				46CAE1C328467C5E00C0853C /* Bootcamp56.swift in Sources */,
+				46CAE1BF2846769F00C0853C /* Bootcamp54.swift in Sources */,
 				46CAE1A3284647F100C0853C /* Bootcamp24.swift in Sources */,
 				46CAE1B2284647F100C0853C /* Bootcamp40.swift in Sources */,
 				46CAE185284647F000C0853C /* Bootcamp27.swift in Sources */,
@@ -374,6 +385,7 @@
 				46CAE198284647F100C0853C /* Bootcamp43.swift in Sources */,
 				46CAE1BA284647F100C0853C /* Bootcamp45.swift in Sources */,
 				46CAE13C2846466300C0853C /* SwiftfulThinkingBootcamp1App.swift in Sources */,
+				46CAE1C1284678DE00C0853C /* Bootcamp55.swift in Sources */,
 				46CAE18B284647F100C0853C /* Bootcamp42.swift in Sources */,
 				46CAE194284647F100C0853C /* Bootcamp46.swift in Sources */,
 				46CAE1AF284647F100C0853C /* Bootcamp48.swift in Sources */,

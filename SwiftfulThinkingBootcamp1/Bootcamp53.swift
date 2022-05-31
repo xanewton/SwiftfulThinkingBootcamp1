@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-// Async image
+// Async image in iOS15
 struct Bootcamp53: View {
     
     // Show a different photo in every request

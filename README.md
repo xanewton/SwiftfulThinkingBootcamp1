@@ -15,8 +15,8 @@ From [SwiftfulThinking](https://www.youtube.com/c/SwiftfulThinking)
 
 - From Bootcamp #53 and up to SwiftUI for iOS15
 
-- Status: Bootcamp #56
-  https://www.youtube.com/watch?v=_PJstGf5XcE&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=56  <-- Status
+- Status: Bootcamp #59
+  https://www.youtube.com/watch?v=qSLOBpiJ2p4&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=59  <-- Status
 
 
 
