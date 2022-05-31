@@ -68,6 +68,7 @@
 		46CAE1B9284647F100C0853C /* Bootcamp26.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE182284647F000C0853C /* Bootcamp26.swift */; };
 		46CAE1BA284647F100C0853C /* Bootcamp45.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE183284647F000C0853C /* Bootcamp45.swift */; };
 		46CAE1BB284647F100C0853C /* Bootcamp10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE184284647F000C0853C /* Bootcamp10.swift */; };
+		46CAE1BD28465BEE00C0853C /* Bootcamp53.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CAE1BC28465BEE00C0853C /* Bootcamp53.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -133,6 +134,7 @@
 		46CAE182284647F000C0853C /* Bootcamp26.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp26.swift; sourceTree = "<group>"; };
 		46CAE183284647F000C0853C /* Bootcamp45.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp45.swift; sourceTree = "<group>"; };
 		46CAE184284647F000C0853C /* Bootcamp10.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bootcamp10.swift; sourceTree = "<group>"; };
+		46CAE1BC28465BEE00C0853C /* Bootcamp53.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp53.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -223,6 +225,7 @@
 				46CAE16F284647F000C0853C /* Bootcamp51.swift */,
 				46CAE156284647EE00C0853C /* Bootcamp52.swift */,
 				46CAE171284647F000C0853C /* OnBoardingViews */,
+				46CAE1BC28465BEE00C0853C /* Bootcamp53.swift */,
 				46CAE1412846466400C0853C /* Preview Content */,
 			);
 			path = SwiftfulThinkingBootcamp1;
@@ -362,6 +365,7 @@
 				46CAE13E2846466300C0853C /* ContentView.swift in Sources */,
 				46CAE1AB284647F100C0853C /* OnBoardingView.swift in Sources */,
 				46CAE199284647F100C0853C /* Bootcamp33.swift in Sources */,
+				46CAE1BD28465BEE00C0853C /* Bootcamp53.swift in Sources */,
 				46CAE196284647F100C0853C /* Bootcamp49.swift in Sources */,
 				46CAE18C284647F100C0853C /* Bootcamp28.swift in Sources */,
 				46CAE19C284647F100C0853C /* Bootcamp34.swift in Sources */,
