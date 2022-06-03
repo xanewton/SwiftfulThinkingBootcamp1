@@ -11,7 +11,7 @@ From [SwiftfulThinking](https://www.youtube.com/c/SwiftfulThinking)
 
 
 ## Notes 
-- From Bootcamp #1 to Bootcamp #52 for iOS13
+- From Bootcamp #1 to Bootcamp #52 for iOS14
 
 - From Bootcamp #53 and up to SwiftUI for iOS15
 
